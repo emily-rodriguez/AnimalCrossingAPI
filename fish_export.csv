@@ -1,0 +1,81 @@
+﻿name,sell_value_cents,location,active_hours,active_months,shadow_size
+Anchovy,20000,Sea,"4AM, 5AM, 6AM, 7AM, 8AM, 9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM, 5PM, 6PM, 7PM, 8PM, 9PM",All,Small
+Angelfish,300000,River,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","May, June, July, August, September, October",Small
+Arapaima,1000000,River,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","June, July, August, September",XXL
+Arowana,1000000,River,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","June, July, August, September",Large
+Barred Knifejaw,500000,Sea,All,"March, April, May, June, July, August, September, October, November",Medium
+Barreleye,1500000,Sea,"9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM",All,Small
+Betta,250000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM","May, June, July, August, September, October",Small
+Bitterling,90000,River,All,"January, February, March, November, December",Tiny
+Black Bass,40000,River,All,All,Large
+Blowfish,500000,Sea,"9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM","January, February, November, December",Medium
+Blue Marlin,1000000,Pier,All,"January, February, March, April, July, August, September, November, December",XXL
+Bluegill,18000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM",All,Small
+Butterfly Fish,100000,Sea,All,"April, May, June, July, August, September",Small
+Carp,30000,Pond,All,All,Large
+Catfish,80000,Pond,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","May, June, July, August, September, October",Large
+Char,380000,River (clifftop),"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","March, April, May, June, September, October, November",Medium
+Cherry Salmon,100000,River (clifftop),"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","March, April, May, June, September, October, November",Medium
+Clown Fish,65000,Sea,All,"April, May, June, July, August, September",Tiny
+Coelacanth,1500000,Sea (rainy day),All,All,XXL
+Crawfish,20000,Pond,All,"April, May, June, July, August, September",Small
+Crucian Carp,16000,River,All,All,Small
+Dab,30000,Sea,All,"January, February, March, April, October, November, December",Medium
+Dace,24000,River,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM",All,Medium
+Dorado,1500000,River,"4AM, 5AM, 6AM, 7AM, 8AM, 9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM, 5PM, 6PM, 7PM, 8PM, 9PM","June, July, August, September",XL
+Football Fish,250000,Sea,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","January, February, March, November, December",Large
+Freshwater Goby,40000,River,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM",All,Small
+Frog,12000,Pond,All,"May, June, July, August",Small
+Gar,600000,Pond,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","June, July, August, September",XXL
+Giant Snakehead,550000,Pond,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM","June, July, August",XL
+Giant Trevally,450000,Pier,All,"May, June, July, August, September, October",XL
+Golden Trout,1500000,River (clifftop),"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","March, April, May, September, October, November",Medium
+Goldfish,130000,Pond,All,All,Tiny
+Great White Shark,1500000,Sea,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","June, July, August, September",XXL - with an extra fin
+Guppy,130000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM","April, May, June, July, August, September, October, November",Tiny
+Hammerhead Shark,800000,Sea,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","June, July, August, September",XXL - with an extra fin
+Horse Mackerel,15000,Sea,All,All,Small
+Killifish,30000,Pond,All,"April, May, June, July, August",Tiny
+King Salmon,180000,River (mouth),All,September,XXL
+Koi,400000,Pond,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM",All,Large
+Loach,40000,River,All,"March, April, May",Small
+Mahi-mahi,600000,Pier,All,"May, June, July, August, September, October",XL
+Mitten Crab,200000,River,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","September, October, November",Small
+Moray Eel,200000,Sea,All,"August, September, October",Unique - Long/thin/narrow
+Napoleonfish,1000000,Sea,"4AM, 5AM, 6AM, 7AM, 8AM, 9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM, 5PM, 6PM, 7PM, 8PM, 9PM","July, August",XXL
+Neon Tetra,50000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM","April, May, June, July, August, September, October, November",TIny
+Nibble Fish,150000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM","May, June, July, August, September",Tiny
+Oarfish,900000,Sea,All,"January, February, March, April, May, December",XXL
+Ocean Sunfish,400000,Sea,"4AM, 5AM, 6AM, 7AM, 8AM, 9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM, 5PM, 6PM, 7PM, 8PM, 9PM","July, August, September",XXL - with an extra fin
+Olive Flounder,80000,Sea,All,All,XL
+Pale Chub,20000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM",All,Tiny
+Pike,180000,River,All,"September, October, November, December",XL
+Piranha,250000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM","June, July, August, September",Small
+Pond Smelt,50000,River,All,"January, February, December",Small
+Pop-eyed Goldfish,130000,Pond,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM",All,Tiny
+Puffer Fish,25000,Sea,All,"July, August, September",Medium
+Rainbowfish,80000,River,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM","May, June, July, August, September, October",Tiny
+Ranchu Goldfish,450000,Pond,"9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM",All,Small
+Ray,300000,Sea,"4AM, 5AM, 6AM, 7AM, 8AM, 9AM, 10AM, 11AM, 12PM, 1PM, 2PM, 3PM, 4PM, 5PM, 6PM, 7PM, 8PM, 9PM","August, September, October, November",XL
+Red Snapper,300000,Sea,All,All,Large
+Ribbon Eel,60000,Sea,All,"June, July, August, September, October",Unique - long/thin/narrow
+Saddled Bichir,400000,River,"9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM","June, July, August, September",Large
+Salmon,70000,River (mouth),All,September,Large
+Saw Shark,1200000,Sea,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","June, July, August, September",XXL - with an extra fin
+Sea Bass,40000,Sea,All,All,XL
+Sea Butterfly,100000,Sea,All,"January, February, March, December",Tiny
+Sea Horse,110000,Sea,All,"April, May, June, July, August, September, October, November",Tiny
+Snapping Turtle,500000,River,"9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM","April, May, June, July, August, September, October",XL
+Soft-shelled Turtle,375000,River,"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","August, September",Large
+Squid,50000,Sea,All,"January, February, March, April, May, June, July, August, December",Medium
+Stringfish,1500000,River (clifftop),"4PM, 5PM, 6PM, 7PM, 8PM, 9PM, 10PM, 11PM, 12AM, 1AM, 2AM, 3AM, 4AM, 5AM, 6AM, 7AM, 8AM, 9AM","January, February, March, December",XL
+Sturgeon,1000000,River (mouth),All,"January, February, March, September, October, November, December",XXL
+Suckerfish,150000,Sea,All,"June, July, August, September",Large- with an extra fin
+Surgeonfish,100000,Sea,All,"April, May, June, July, August, September",Small
+Sweetfish,90000,River,All,"July, August, September",Medium
+Tadpole,10000,Pond,All,"March, April, May, June, July",Tiny
+Tilapia,80000,River,All,"June, July, August, September, October",Medium
+Tuna,700000,Pier,All,"January, February, March, April, November, December",XXL
+Whale Shark,1300000,Sea,All,"June, July, August, September",XXL - with an extra fin
+Yellow Perch,30000,River,All,"January, February, March, October, November, December",Medium
+Zebra Turkeyfish,50000,Sea,All,"April, May, June, July, August, September, October, November",Medium
